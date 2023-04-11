@@ -15,6 +15,7 @@ i:hover,a:hover {
     display: flex;
     list-style: none;
 }
+
 i{
     font-size: 24px;
     padding-right: 6px;
