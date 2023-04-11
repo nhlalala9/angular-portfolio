@@ -2,6 +2,12 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     min-height: 100vh;
-
     
+}
+.right-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-right: 18rem;
+    margin-bottom: 5%;
 }
