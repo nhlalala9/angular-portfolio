@@ -1,8 +1,16 @@
 .navbar-nav{
    margin-left: 80%;
-    
+}
+nav{
+    background-color: #212529;
+}
+li:hover,.home:hover {
+    background-color: rgb(51, 59, 61);
 }
 
+i:hover,a:hover {
+    background-color: rgb(45, 51, 53);
+}
 .nav__items {
     display: flex;
     list-style: none;
