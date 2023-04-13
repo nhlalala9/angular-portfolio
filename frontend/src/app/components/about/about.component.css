@@ -1,0 +1,11 @@
+p {
+    padding-top: 60%;
+   background-color: red;
+   color: blue;
+   height: 100%;
+}
+
+.body {
+    height: 100%;
+    width: 100%;
+}
