@@ -1,3 +1,13 @@
+.main-title{
+    padding-top: 30%;
+    margin-right: 50%;
+    height: 50%;
+}
+.contact-content-con{
+    display: flex;
+    padding-top: 3.5rem;
+}
+
 /* .contact-content-con {
     display: flex;
     padding-top: 3.5rem;
