@@ -259,3 +259,7 @@ input, textarea{
     display: flex;
     justify-content: flex-start;
   }
+  .contact-icons{
+    display: flex;
+    margin-top: 2rem;
+  }
