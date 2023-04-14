@@ -263,3 +263,17 @@ input, textarea{
     display: flex;
     margin-top: 2rem;
   }
+  .right-contact{
+    flex: 3;
+    margin-left: 3rem;
+}
+.btn{
+    padding: 12px 32px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    background: #01557a;;
+    color: #222;
+    border: 1px solid #fff;
+    font-weight:  600;
+    cursor: pointer;
+  }
