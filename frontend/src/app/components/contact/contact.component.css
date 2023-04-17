@@ -276,6 +276,14 @@ input, textarea{
     flex: 3;
     margin-left: 3rem;
 }
+.contact-form{
+  display: flex;
+  flex-direction: column;
+  padding: 4rem 1rem;
+  margin: auto;
+  max-width: 600px;
+}
+
 .btn{
     padding: 12px 32px;
     font-size: 1rem;
