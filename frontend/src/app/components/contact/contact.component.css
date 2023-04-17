@@ -296,9 +296,12 @@ form input, form textarea{
     font-size: 1rem;
     text-transform: uppercase;
     background: #01557a;;
-    color: white;
+    color: #222;
     border: 1px solid #fff;
     font-weight:  600;
     cursor: pointer;
   }
- 
+  .btn-a{
+    color: white;
+  }
+  
