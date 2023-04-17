@@ -15,3 +15,11 @@
     background-color: var(--color-grey-5);
     transform: translateX(-50%);
   }
+  .progress-bar {
+    display: flex;
+    flex-direction: column;
+  }
+  .prog-title {
+    text-transform: uppercase;
+    font-weight: 500;
+}
