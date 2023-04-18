@@ -5,3 +5,18 @@
     padding: 3.5rem 0;
     position: relative;
 }
+.port-text{
+    padding: 2rem 0;
+    text-align: center;
+}
+.portfolios {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 2rem;
+    margin-top: 3rem;
+}
+.portfolio-item {
+    position: relative;
+    border-radius: 15px;
+}
+
