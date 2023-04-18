@@ -17,7 +17,7 @@
   }
   .progress-bar {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
   }
   .prog-title {
     text-transform: uppercase;
