@@ -3,7 +3,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { AppComponent } from './app.component';
 import { AboutComponent } from './components/about/about.component';
 import { ContactComponent } from './components/contact/contact.component';
-import { CurriculumVitaeComponent } from './components/curriculum-vitae/curriculum-vitae.component';
+
 import { HomeComponent } from './components/home/home.component';
 import { ProjectsComponent } from './components/projects/projects.component';
 import { SkillsComponent } from './components/skills/skills.component';
@@ -15,7 +15,7 @@ const routes: Routes = [
   {path: 'contact',component:ContactComponent},
   { path: 'skills', component:SkillsComponent }, 
   { path: 'projects', component: ProjectsComponent }, 
-  { path: 'cv', component: CurriculumVitaeComponent }
+  
 
   
 ];
