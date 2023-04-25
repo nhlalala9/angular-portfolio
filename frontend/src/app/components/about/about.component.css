@@ -41,6 +41,19 @@
     background: top center;
     background-size: cover;
 }
+#about p{
+    color: #fff;
+    margin-bottom: 50px;
+    font-size: 26px;
+    font-family: "Poppins", sans-serif;
+    display: block;
+}
+h2{
+    color: #fff;
+}
+h4{
+    color: #fff;
+}
 
 
 section {
