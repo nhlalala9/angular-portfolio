@@ -92,6 +92,9 @@ i {
     padding: 3.5rem 0;
     position: relative;
 }
+h2{
+    color: white;
+}
 .card-item{
     display: flex;
   justify-content: center;
