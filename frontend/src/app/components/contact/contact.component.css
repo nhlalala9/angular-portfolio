@@ -147,4 +147,12 @@ form input, form textarea{
   h2{
     color: white;
   }
-  
+  h4{
+    color: white;
+  }
+  p{
+    color: white;
+  }
+  .contact-info p{
+    color: white;
+  } 
