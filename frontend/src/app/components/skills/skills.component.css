@@ -5,6 +5,9 @@
     padding: 3.5rem 0;
     position: relative;
 }
+h4{
+  color: white;
+}
 .stat-title::before {
     content: "";
     position: absolute;
