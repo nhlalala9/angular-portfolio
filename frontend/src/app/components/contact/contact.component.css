@@ -108,13 +108,19 @@
   .right-contact{
     flex: 3;
     margin-left: 3rem;
+    
 }
+
 .contact-form{
   display: flex;
   flex-direction: column;
   padding: 4rem 1rem;
   margin: auto;
   max-width: 600px;
+
+}
+.contact-form-a{
+  color: white;
 }
 form input, form textarea{
   margin-bottom: 1rem;
