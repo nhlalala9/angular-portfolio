@@ -162,3 +162,6 @@ form input, form textarea{
   .contact-info p{
     color: white;
   } 
+  span{
+    color: white;
+  }
