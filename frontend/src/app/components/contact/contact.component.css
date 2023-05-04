@@ -104,6 +104,7 @@
     margin-top: 2rem;
     font-size: 4.2rem;
     padding-bottom: 0.7rem;
+    color: white;
   }
   .right-contact{
     flex: 3;
@@ -163,5 +164,8 @@ form input, form textarea{
     color: white;
   } 
   span{
+    color: white;
+  }
+  h3{
     color: white;
   }
