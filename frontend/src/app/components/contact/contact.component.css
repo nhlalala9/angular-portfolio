@@ -111,7 +111,7 @@
     margin-left: 3rem;
     
 }
-
+/* target form */
 .contact-form{
   display: flex;
   flex-direction: column;
@@ -120,8 +120,9 @@
   max-width: 600px;
 
 }
-.contact-form-a{
-  color: white;
+input{
+  color: #fff;
+    margin-bottom: 0.5rem;
 }
 form input, form textarea{
   margin-bottom: 1rem;
@@ -130,6 +131,7 @@ form input, form textarea{
   background-color: rgba(255,255,255,0.1);
   border-color: rgba(255,255,255,0.1);
   color: #f4f4f4;
+  
 }
 .btn{
     padding: 12px 32px;
