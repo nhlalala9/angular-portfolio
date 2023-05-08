@@ -186,3 +186,22 @@ span {
 p {
     color: var(--color-grey-2);
 }
+@media (max-width:600px) {
+    
+}
+/* 
+@media (max-width: 600px) {
+    .sign-up-container {
+      margin: 5%;
+      width: 300px;
+    }
+    .btn-sign-up {
+      margin: 0;
+    }
+  }
+  .left {
+    width: 50%;
+  }
+  .right{
+    width: 40%;
+  } */
